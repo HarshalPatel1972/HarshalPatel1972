@@ -45,8 +45,8 @@ A **Systems Optimizer** for Windows processes. Reduced WhatsApp Desktop memory u
 
 ### 📈 Vital Signs
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=radical&hide=html,css" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=radical&hide=html,css" height="170" alt="Top Languages" />
 </div>
 
 ---
