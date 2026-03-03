@@ -1,5 +1,5 @@
 <div align="center">
-  # 👋 Namaste, I’m Harshal Patel
+  ### 👋 Namaste, I’m Harshal Patel
   ### Full-Stack Systems Engineer | AI & ML Specialist
   
   *Varanasi, India 🇮🇳*
