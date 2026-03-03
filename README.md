@@ -1,10 +1,14 @@
 <div align="center">
-  ### 👋 Namaste, I’m Harshal Patel
-  ### Full-Stack Systems Engineer | AI & ML Specialist
+  <h1>👋 Namaste, I’m Harshal Patel</h1>
+  <h3>Full-Stack Systems Engineer | AI & ML Specialist</h3>
   
-  *Varanasi, India 🇮🇳*
+  <p><em>Varanasi, India 🇮🇳</em></p>
   
-  [LinkedIn](https://www.linkedin.com/in/harshal-patel-59b9a5278/) • [Portfolio](https://harshal-patel-chi.vercel.app/) • [Email](mailto:harshalpatel6828@gmail.com)
+  <p>
+    <a href="https://www.linkedin.com/in/harshal-patel-59b9a5278/">LinkedIn</a> • 
+    <a href="https://harshal-patel-chi.vercel.app/">Portfolio</a> • 
+    <a href="mailto:harshalpatel6828@gmail.com">Email</a>
+  </p>
 </div>
 
 ---
@@ -40,13 +44,13 @@ A **Systems Optimizer** for Windows processes. Reduced WhatsApp Desktop memory u
 ---
 
 ### 📈 Vital Signs
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=dark&hide=html,css" height="150" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=radical&hide=html,css" height="170" alt="Top Languages" />
+</div>
 
 ---
 
 <div align="center">
-  *"Optimizing for performance, building for impact."*
+  <em>"Optimizing for performance, building for impact."</em>
 </div>
