@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarshalPatel1972/HarshalPatel1972/main/banner.png" width="20%" alt="Harshal Patel Banner" />
-  
   # 👋 Namaste, I’m Harshal Patel
   ### Full-Stack Systems Engineer | AI & ML Specialist
   
