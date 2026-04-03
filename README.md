@@ -310,7 +310,7 @@ Menu width recalculation fix on item changes
 <br/><br/>
 
 <!-- GITHUB TROPHIES -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshalPatel1972&theme=github_dark&utcOffset=5.5"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshalPatel1972&theme=github_dark"/>
 
 </div>
 
