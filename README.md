@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=HarshalPatel1972&color=00D9FF&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true"/>
 &nbsp;
 <a href="https://github.com/HarshalPatel1972?tab=followers">
-  <img src="https://img.shields.io/github/followers/HarshalPatel1972?label=⚡+Followers&style=for-the-badge&color=FF3C3C&labelColor=0d1117&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/github/followers/HarshalPatel1972?label=Followers&style=for-the-badge&color=FF3C3C&labelColor=0d1117"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-9.15%20%2F%2010-00FF88?style=for-the-badge&labelColor=0d1117"/>
@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- ░░░░░░  ANIMATED TYPEWRITER ROLES  ░░░░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=900&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=🦀+Rust+%7C+⚡+Go+%7C+🔷+TypeScript+%7C+🎯+Kotlin;🖥️+Desktop+App+Architect+(Tauri+v2);🛠️+Systems-Level+Problem+Solver;🔬+Open+Source+Contributor+%26+OSS+Fixer;🌑+Stealth+AI+%7C+Dev+Tools+%7C+Perf+Eng;🎓+Final+Year+CSE+@+Chandigarh+University" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=900&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=Rust+%7C+Go+%7C+TypeScript+%7C+Kotlin;Desktop+App+Architect+(Tauri+v2);Systems-Level+Problem+Solver;Open+Source+Contributor+%26+OSS+Fixer;Stealth+AI+%7C+Dev+Tools+%7C+Perf+Eng;Final+Year+CSE+at+Chandigarh+University" alt="Typing SVG"/>
 
 <br/>
 
@@ -299,9 +299,9 @@ Menu width recalculation fix on item changes
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF3C3C&text_color=ffffff&ring_color=00D9FF"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshalPatel1972&theme=github_dark"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshalPatel1972&theme=github_dark"/>
 
 <br/><br/>
 
@@ -310,7 +310,7 @@ Menu width recalculation fix on item changes
 <br/><br/>
 
 <!-- GITHUB TROPHIES -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=HarshalPatel1972&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshalPatel1972&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
