@@ -517,7 +517,7 @@ Data Science Intern
 
 <!-- ████████████████████  FOOTER  ████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003344,50:001a2e,100:000000&height=160&section=footer&text=&animation=twinkling&fontSize=0"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d1a&height=80&text=PROTOCOL&fontSize=48&fontColor=00D9FF&animation=blinking&fontAlignY=65"/>
 
 <div align="center">
 <sub>
