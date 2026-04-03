@@ -517,8 +517,6 @@ Data Science Intern
 
 <!-- ████████████████████  FOOTER  ████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d1a&height=80&text=PROTOCOL&fontSize=48&fontColor=00D9FF&animation=blinking&fontAlignY=65"/>
-
 <div align="center">
 <sub>
   Built with obsession. Shipped with precision. &nbsp;·&nbsp;
