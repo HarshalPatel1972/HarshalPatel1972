@@ -16,7 +16,7 @@ jobs:
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
-      - uses: Platane/snk/svg-only@v3.4.1
+      - uses: Platane/snk@v3.4.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
