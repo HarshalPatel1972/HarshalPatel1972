@@ -72,7 +72,7 @@ philosophy: "I find what's broken
   and build what's missing"
 
 currently:
-  🚀 building: Lucid (stealth AI overlay)
+  🚀 building: Lucid (AI Meeting Assistant)
   📡 exploring: Systems perf + Win32 APIs
   🎵 creating: Reverie (AI music, YouTube)
   📚 studying: Final year thesis season
@@ -125,7 +125,7 @@ impl Developer for Harshal {
 <div align="center">
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  &nbsp; CURRENTLY IN STEALTH MODE &nbsp;
+  &nbsp; CURRENTLY EMPOWERING PRODUCTIVITY &nbsp;
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 </div>
@@ -136,7 +136,7 @@ impl Developer for Harshal {
 <tr>
 <td align="center">
 
-### 🌑 `LUCID` — The Invisible AI Overlay
+### 🗓️ Lucid — The AI Meeting Assistant
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FF3C3C"/>
 <img src="https://img.shields.io/badge/Tauri_v2-000000?style=flat-square&logo=tauri&logoColor=00D9FF"/>
@@ -146,16 +146,16 @@ impl Developer for Harshal {
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  🛡️  Invisible to OBS / screen capture via Win32 API           │
-│  🤖  AI Chat overlay — always on top, never detected           │
-│  🔍  OCR Snipping — capture anything on screen instantly       │
-│  🎙️  Meeting Transcription — real-time, offline                │
-│  👻  Ghost Mode — ships as AudioSessionManager.exe             │
-│  ⚡  SetWindowDisplayAffinity(WDA_EXCLUDEFROMCAPTURE) ✅ LIVE  │
+│  🛡️  Privacy-First: Protect sensitive notes from capture        │
+│  🤖  Focus HUD: Non-intrusive AI overlay for real-time help     │
+│  🔍  Smart Snipping: Capture meeting slides and diagrams       │
+│  🎙️  Real-time Transcription & AI Summarization                │
+│  💼  Professional Identity: High-Performance Desktop Tool      │
+│  ⚡  Enterprise-Grade Window Integration ✅ LIVE               │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-> _"The most powerful tool is the one no one knows you're using."_
+> _"Empowering professionals with real-time AI context."_
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ impl Developer for Harshal {
 
 |                                   🚀 Project                                   | 🧠 What It Does                                                                                                      |           🔧 Stack            |                                  🏷️ Status                                   |
 | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------- | :---------------------------: | :--------------------------------------------------------------------------: |
-|              [**🌑 Lucid**](https://github.com/HarshalPatel1972/lucid)         | Stealth AI desktop overlay invisible to screen capture. Ghost-mode AI assistant.                                     |   `Rust` `Tauri v2` `React`   |  ![WIP](https://img.shields.io/badge/🔥-Building-FF3C3C?style=flat-square)   |
+|              [**🗓️ Lucid**](https://github.com/HarshalPatel1972/lucid)         | Professional AI meeting assistant with non-intrusive overlay and real-time transcription.                            |   `Rust` `Tauri v2` `React`   |  ![WIP](https://img.shields.io/badge/🔥-Building-FF3C3C?style=flat-square)   |
 |        [**⚡ Velocity**](https://github.com/HarshalPatel1972/velocity)         | Windows utility fixing WhatsApp Desktop: memory bloat, focus stealing, CPU/battery drain via Win32 syscalls + EcoQoS |    `Go` `Win32` `systray`     |    ![Live](https://img.shields.io/badge/✅-Live-00FF88?style=flat-square)    |
 |      [**📡 Entangle**](https://github.com/HarshalPatel1972/Entangle)           | Instant cross-device file sharing via mDNS/Zeroconf + WebSocket. No cloud. No friction.                              |     `Go` `Kotlin` `Fyne`      |  ![Active](https://img.shields.io/badge/⚡-Active-00D9FF?style=flat-square)  |
 | [**📬 Shortlist**](https://github.com/HarshalPatel1972?tab=repositories&q=shortlist&type=&language=&sort=) | AI-powered email monitor that alerts on internship/placement emails via Telegram + Web Push                          |  `Node.js` `SQLite` `Gemini`  | ![Shipped](https://img.shields.io/badge/✅-Shipped-00FF88?style=flat-square) |
