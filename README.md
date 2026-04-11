@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/HarshalPatel1972?label=Followers&style=for-the-badge&color=FF3C3C&labelColor=0d1117"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.15%20%2F%2010-00FF88?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CGPA-8.87%20%2F%2010-00FF88?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/CU-2026%20Batch-FF3C3C?style=for-the-badge&labelColor=0d1117"/>
 
@@ -66,7 +66,7 @@ identity:
   location: Chandigarh, India 🇮🇳
   institution: Chandigarh University
   degree: B.Tech CSE (2026)
-  cgpa: 9.15 / 10.0  ██████████ 🔥
+  cgpa: 8.87 / 10.0  ████████░░ 🔥
 
 philosophy: "I find what's broken
   and build what's missing"
