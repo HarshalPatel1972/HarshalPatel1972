@@ -72,7 +72,7 @@ philosophy: "I find what's broken
   and build what's missing"
 
 currently:
-  🚀 building: Lucid (AI Meeting Assistant)
+  🚀 building: Lucid & KeyPulse
   📡 exploring: Systems perf + Win32 APIs
   🎵 creating: Reverie (AI music, YouTube)
   📚 studying: Final year thesis season
@@ -134,7 +134,7 @@ impl Developer for Harshal {
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
 ### 🗓️ Lucid — The AI Meeting Assistant
 
@@ -145,17 +145,39 @@ impl Developer for Harshal {
 <img src="https://img.shields.io/badge/STATUS-BUILDING-FF3C3C?style=flat-square"/>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🛡️  Privacy-First: Protect sensitive notes from capture        │
-│  🤖  Focus HUD: Non-intrusive AI overlay for real-time help     │
-│  🔍  Smart Snipping: Capture meeting slides and diagrams       │
-│  🎙️  Real-time Transcription & AI Summarization                │
-│  💼  Professional Identity: High-Performance Desktop Tool      │
-│  ⚡  Enterprise-Grade Window Integration ✅ LIVE               │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────┐
+│  🛡️ Privacy-First Note Capture        │
+│  🤖 Non-intrusive AI Overlay         │
+│  🔍 Smart Window Snipping           │
+│  🎙️ Real-time Transcription         │
+│  ⚡ Enterprise Window Integration    │
+└──────────────────────────────────────┘
 ```
 
 > _"Empowering professionals with real-time AI context."_
+
+</td>
+<td align="center" width="50%">
+
+### 💓 KeyPulse — The API Heartbeat
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflareworkers&logoColor=F38020"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-00FF88?style=flat-square"/>
+
+```
+┌──────────────────────────────────────┐
+│  💓 Instant Provider Detection       │
+│  📡 Live Status Verification         │
+│  🔒 Zero-Logging Privacy Policy      │
+│  🧩 11+ AI Providers Supported       │
+│  ⚡ Direct Browser-to-API Calls      │
+└──────────────────────────────────────┘
+```
+
+> _"Check if your API key still has a pulse."_
 
 </td>
 </tr>
@@ -338,47 +360,6 @@ Menu width recalculation fix on item changes
 </picture>
 
 </div>
-
-<br/>
-
-> ⚙️ **Setup note:** Add `.github/workflows/snake.yml` to auto-generate the snake animation — template below ↓
-
-<details>
-<summary>🐍 Click to reveal snake workflow setup</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <br/>
 
