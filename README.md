@@ -293,18 +293,18 @@ Menu width recalculation fix on item changes
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshalPatel1972&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshalPatel1972&theme=github_dark&v=1"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshalPatel1972&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshalPatel1972&theme=github_dark&v=1"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=HarshalPatel1972&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF3C3C&fire=FF3C3C&currStreakNum=ffffff&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=aaaaaa"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=HarshalPatel1972&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF3C3C&fire=FF3C3C&currStreakNum=ffffff&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=aaaaaa&v=1"/>
 
 <br/><br/>
 
 <!-- GITHUB TROPHIES -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshalPatel1972&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshalPatel1972&theme=github_dark&v=1"/>
 
 </div>
 
@@ -317,7 +317,7 @@ Menu width recalculation fix on item changes
 <div align="center">
 <h2>📈 CONTRIBUTION PULSE</h2>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshalPatel1972&bg_color=0d1117&color=00D9FF&line=FF3C3C&point=ffffff&area=true&area_color=00D9FF&hide_border=true&custom_title=Harshal's%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshalPatel1972&bg_color=0d1117&color=00D9FF&line=FF3C3C&point=ffffff&area=true&area_color=00D9FF&hide_border=true&custom_title=Harshal's%20Contribution%20Graph&v=1"/>
 
 </div>
 
