@@ -316,9 +316,9 @@ Menu width recalculation fix on item changes
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshalPatel1972&theme=github_dark&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshalPatel1972&theme=github_dark&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF3C3C"/>
 
 <br/><br/>
 
@@ -326,8 +326,8 @@ Menu width recalculation fix on item changes
 
 <br/><br/>
 
-<!-- GITHUB TROPHIES -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshalPatel1972&theme=github_dark&v=1"/>
+<!-- GITHUB STATS DETAIL -->
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C&show_icons=true&hide_rank=false&layout=regular"/>
 
 </div>
 
