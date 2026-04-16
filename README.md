@@ -322,12 +322,11 @@ Menu width recalculation fix on item changes
 
 <br/><br/>
 
-<!--
+
 <img width="70%" src="https://streak-stats.demolab.com?user=HarshalPatel1972&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF3C3C&fire=FF3C3C&currStreakNum=ffffff&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=aaaaaa&v=1"/>
 
 <br/><br/>
 
--->
 
 <!-- GITHUB STATS DETAIL -->
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C&show_icons=true&hide_rank=false&layout=regular"/>
