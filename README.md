@@ -329,7 +329,7 @@ Menu width recalculation fix on item changes
 
 
 <!-- GITHUB STATS DETAIL -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C&show_icons=true&hide_rank=false&layout=regular"/>
+<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C&show_icons=true&hide_rank=false&layout=regular"/> -->
 
 </div>
 
