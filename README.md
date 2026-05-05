@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=HarshalPatel1972&color=00D9FF&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true"/>
 &nbsp;
 <a href="https://github.com/HarshalPatel1972?tab=followers">
-  <img src="https://img.shields.io/github/followers/HarshalPatel1972?label=Followers&style=for-the-badge&color=FF3C3C&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/followers/HarshalPatel1972?style=for-the-badge&color=FF3C3C&labelColor=0d1117&logo=github"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-8.87%20%2F%2010-00FF88?style=for-the-badge&labelColor=0d1117"/>
@@ -316,9 +316,9 @@ Menu width recalculation fix on item changes
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF3C3C"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF3C3C"/>
 
 <br/><br/>
 
