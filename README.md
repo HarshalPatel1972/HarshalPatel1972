@@ -358,7 +358,12 @@ Menu width recalculation fix on item changes
   <br/><br/>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </div>
 
 <br/>
