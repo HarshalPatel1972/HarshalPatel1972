@@ -350,6 +350,21 @@ Menu width recalculation fix on item changes
 
 ---
 
+<!-- ████████████████████  REAL CODING TIME (WAKATIME)  ████████████████████ -->
+
+<div align="center">
+  <h2>⏱️ REAL CODING TIME</h2>
+  <i>"Measured in hours. Refined in silence."</i>
+  <br/><br/>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
+
+<br/>
+
+---
+
 <!-- ████████████████████  CONTRIBUTION SNAKE  ████████████████████ -->
 
 <div align="center">
