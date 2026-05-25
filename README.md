@@ -9,7 +9,8 @@ So I found the Win32 APIs that fix it and shipped a tray app.
 
 **That's basically my whole design philosophy.**
 
-I'm a final-year CS student at Chandigarh University. I build in Rust, Go, and TypeScript — usually somewhere close to the OS or the browser's guts.
+I'm a Computer Science graduate from Chandigarh University who builds things because something was broken and nobody had fixed it yet. 
+I build in Rust, Go, and TypeScript — usually somewhere close to the OS or the browser's guts.
 
 <br/>
 
