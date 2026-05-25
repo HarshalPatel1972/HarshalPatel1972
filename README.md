@@ -46,18 +46,10 @@ I build in Rust, Go, and TypeScript — usually somewhere close to the OS or the
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,go,ts,kotlin,react,nextjs,tauri,git,vercel,cloudflare&theme=dark&perline=10"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 <img height="155" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-&nbsp;
+
+<img height="155" src="https://streak-stats.demolab.com?user=HarshalPatel1972&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
 <img height="155" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
