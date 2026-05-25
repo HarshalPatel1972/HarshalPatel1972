@@ -10,7 +10,7 @@
 
 <br/>
 
-Hey — I'm a final-year CS student at Chandigarh University who builds things because something was broken and nobody had fixed it yet.
+Hey — I'm a Computer Science graduate from Chandigarh University who builds things because something was broken and nobody had fixed it yet.
 
 I don't plan projects from trends. I run into friction, obsess over the root cause, and ship the fix. **Velocity** started because WhatsApp Desktop was eating my RAM. **KeyPulse** because I needed a fast way to check if an API key still worked. **Lucid** because I kept alt-tabbing out of meetings to get AI context.
 
