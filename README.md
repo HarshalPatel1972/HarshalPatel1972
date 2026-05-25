@@ -20,8 +20,6 @@ I build in Rust, Go, and TypeScript — usually somewhere close to the OS or the
 
 [**Velocity**](https://github.com/HarshalPatel1972/velocity) — that WhatsApp fix. memory bloat + focus stealing + battery drain. `Go · Win32`
 
-[**Lucid**](https://github.com/HarshalPatel1972/lucid) — AI overlay that's invisible to screen capture. for when you need context without getting caught looking. `Rust · Tauri v2`
-
 [**Entangle**](https://github.com/HarshalPatel1972/Entangle) — drop files between devices. no cloud, no accounts, just your router. `Go · Kotlin`
 
 [**KeyPulse**](https://github.com/HarshalPatel1972/keypulse) — paste an API key, find out if it's dead or alive. zero logging. `Next.js · Cloudflare Workers`
