@@ -1,187 +1,98 @@
 <div align="center">
 
-<!-- ████████████████████  HEADER BANNER  ████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d1a,60:001a2e,100:003344&height=230&section=header&text=HARSHAL%20PATEL&fontSize=76&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=I%20find%20what%27s%20broken.%20I%20build%20what%27s%20missing.&descSize=19&descAlignY=64&descColor=FF3C3C&stroke=00D9FF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=Harshal+Patel&fontSize=52&fontColor=e6edf3&animation=fadeIn&fontAlignY=45&desc=I+find+what%27s+broken.+I+build+what%27s+missing.&descSize=15&descAlignY=70&descColor=6e7681"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshalPatel1972&color=58a6ff&style=flat&label=profile+views&abbreviated=true)](https://github.com/HarshalPatel1972)
+&nbsp;·&nbsp;
+[![Followers](https://img.shields.io/github/followers/HarshalPatel1972?label=followers&style=flat&color=58a6ff&labelColor=161b22)](https://github.com/HarshalPatel1972?tab=followers)
+
+</div>
 
 <br/>
 
-<!-- ░░░░░░  LIVE BADGES ROW  ░░░░░░ -->
-<img src="https://komarev.com/ghpvc/?username=HarshalPatel1972&color=00D9FF&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true"/>
+Hey — I'm a final-year CS student at Chandigarh University who builds things because something was broken and nobody had fixed it yet.
+
+I don't plan projects from trends. I run into friction, obsess over the root cause, and ship the fix. **Velocity** started because WhatsApp Desktop was eating my RAM. **KeyPulse** because I needed a fast way to check if an API key still worked. **Lucid** because I kept alt-tabbing out of meetings to get AI context.
+
+I work mostly in **Rust**, **Go**, and **TypeScript** — usually somewhere close to the OS, the network, or the browser's underbelly.
+
+<br/>
+
+---
+
+### what I'm building
+
+**[Lucid](https://github.com/HarshalPatel1972/lucid)** `Rust · Tauri v2 · React`
+A stealth AI overlay for Windows, invisible to screen capture via `WDA_EXCLUDEFROMCAPTURE`. Built for professionals who need context without breaking their flow.
+
+**[Velocity](https://github.com/HarshalPatel1972/velocity)** `Go · Win32 · systray`
+Fixed WhatsApp Desktop — memory bloat via `SetProcessWorkingSetSizeEx`, focus stealing via `SetWinEventHook`, and battery drain via EcoQoS. Ships as a quiet system tray app.
+
+**[Entangle](https://github.com/HarshalPatel1972/Entangle)** `Go · Kotlin · WebSocket`
+Instant cross-device file transfer over mDNS/Zeroconf. No cloud. No accounts. Just your local network and a WebSocket handshake.
+
+**[KeyPulse](https://github.com/HarshalPatel1972/keypulse)** `Next.js · TypeScript · Cloudflare Workers`
+Check if your API key still has a pulse. Instant provider detection across 11 AI providers. Zero server logging — every call goes directly from your browser.
+
+**[GitReplay](https://github.com/HarshalPatel1972/GitReplay)** `Next.js · Groq · Cloudflare`
+Browse a repo's commit history as a visual timeline, with AI summaries of what actually changed and why.
+
+**[VibeCheck](https://www.npmjs.com/package/@harshalpatel2868/vibe-check)** `Node.js · npm`
+A CLI checkpoint tool for AI agents. Validates agent state at key decision points before things go sideways.
+
+<details>
+<summary>and a few more...</summary>
+<br/>
+
+**[Glance](https://github.com/HarshalPatel1972/Glance)** — Floating reference snip Chrome extension. Screenshot anything, pin it anywhere.
+
+**[Kenshō](https://github.com/HarshalPatel1972)** — Spaced repetition flashcard engine with a custom SM-2 algorithm, multi-provider AI fallback, and a Go backend on Railway.
+
+**[AnCheck](https://github.com/HarshalPatel1972)** — Spotlight-style launcher for Windows, built in Tauri v2.
+
+**[Shortlist](https://github.com/HarshalPatel1972)** — Monitors your inbox for internship and placement emails. Classifies with Gemini, alerts via Telegram and Web Push.
+
+</details>
+
+<br/>
+
+---
+
+### open source
+
+I try to leave codebases better than I found them.
+
+- **[gopsutil](https://github.com/shirou/gopsutil)** — Rewrote Windows process listing from O(N²) to O(N)
+- **[getlantern/systray](https://github.com/getlantern/systray)** — Fixed alpha pre-multiplication corruption on menu icons
+- **[fyne-io/systray](https://github.com/fyne-io/systray)** — Fixed menu width recalculation when items update at runtime
+
+<br/>
+
+---
+
+### stack
+
+<img src="https://skillicons.dev/icons?i=rust,go,ts,kotlin,python&theme=dark&perline=5"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri,html&theme=dark&perline=5"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,vercel,cloudflare,postgres&theme=dark&perline=5"/>
+
+<br/>
+
+---
+
+### by the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 &nbsp;
-<a href="https://github.com/HarshalPatel1972?tab=followers">
-  <img src="https://img.shields.io/github/followers/HarshalPatel1972?style=for-the-badge&color=FF3C3C&labelColor=0d1117&logo=github"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.87%20%2F%2010-00FF88?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CU-2026%20Batch-FF3C3C?style=for-the-badge&labelColor=0d1117"/>
+<img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 <br/><br/>
 
-<!-- ░░░░░░  ANIMATED TYPEWRITER ROLES  ░░░░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=900&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=Rust+%7C+Go+%7C+TypeScript+%7C+Kotlin;Desktop+App+Architect+(Tauri+v2);Systems-Level+Problem+Solver;Open+Source+Contributor+%26+OSS+Fixer;Stealth+AI+%7C+Dev+Tools+%7C+Perf+Eng;Final+Year+CSE+at+Chandigarh+University" alt="Typing SVG"/>
-
-<br/>
-
----
-
-<!-- ████████████████████  MANIFESTO  ████████████████████ -->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0d0000&height=3&width=80%25"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d1a&height=120&text=PROTOCOL&fontSize=62&fontColor=FFFFFF&stroke=00D9FF&strokeWidth=1"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=FF3C3C&center=true&vCenter=true&width=780&lines=%E2%9E%A4+Not+a+developer+who+codes.+A+builder+who+thinks+in+systems+and+ships+in+silence." alt="Manifesto"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0d0000&height=3&width=80%25"/>
-
-<br/><br/>
-
-</div>
-
-<!-- ████████████████████  ABOUT ME  ████████████████████ -->
-
-<div align="center">
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
-  &nbsp; WHO AM I &nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
-</h2>
-</div>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-identity:
-  name: Harshal Patel
-  alias: HarshalPatel1972
-  location: Chandigarh, India 🇮🇳
-  institution: Chandigarh University
-  degree: B.Tech CSE (2026)
-  cgpa: 8.87 / 10.0  ████████░░ 🔥
-
-philosophy: "I find what's broken
-  and build what's missing"
-
-currently:
-  🚀 building: Lucid & KeyPulse
-  📡 exploring: Systems perf + Win32 APIs
-  🎵 creating: Reverie (AI music, YouTube)
-  📚 studying: Final year thesis season
-
-open_to:
-  - Systems / Backend engineering roles
-  - Open source collaboration
-  - Freelance / Contract opportunities
-```
-
-</td>
-<td width="45%" valign="top">
-
-```rust
-// Harshal.rs — runtime snapshot
-
-impl Developer for Harshal {
-    fn philosophy() -> &'static str {
-        "Break it. Understand it. Rebuild it
-         10x better. Ship it quietly."
-    }
-
-    fn superpowers() -> Vec<&'static str> {
-        vec![
-            "Win32 syscall wizardry",
-            "Cross-platform Tauri apps",
-            "Go performance profiling",
-            "AI-powered desktop tools",
-            "OSS bug hunting",
-        ]
-    }
-
-    fn when_not_coding() -> &'static str {
-        "Watching JJK S3 or spacing out
-         to Ed Sheeran at 2AM 🎧"
-    }
-}
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ████████████████████  CURRENTLY BUILDING  ████████████████████ -->
-
-<div align="center">
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  &nbsp; CURRENTLY EMPOWERING PRODUCTIVITY &nbsp;
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🗓️ Lucid — The AI Meeting Assistant
-
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FF3C3C"/>
-<img src="https://img.shields.io/badge/Tauri_v2-000000?style=flat-square&logo=tauri&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-FF3C3C?style=flat-square"/>
-
-```
-┌──────────────────────────────────────┐
-│  🛡️ Privacy-First Note Capture      │
-│  🤖 Non-intrusive AI Overlay        │
-│  🔍 Smart Window Snipping           │
-│  🎙️ Real-time Transcription         │
-│  ⚡ Enterprise Window Integration   │
-└──────────────────────────────────────┘
-```
-
-> _"Empowering professionals with real-time AI context."_
-
-</td>
-<td align="center" width="50%">
-
-### 💓 KeyPulse — The API Heartbeat
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflareworkers&logoColor=F38020"/>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00FF88?style=flat-square"/>
-
-```
-┌──────────────────────────────────────┐
-│  💓 Instant Provider Detection       │
-│  📡 Live Status Verification         │
-│  🔒 Zero-Logging Privacy Policy      │
-│  🧩 11+ AI Providers Supported       │
-│  ⚡ Direct Browser-to-API Calls      │
-└──────────────────────────────────────┘
-```
-
-> _"Check if your API key still has a pulse."_
-
-</td>
-</tr>
-</table>
+<img width="68%" src="https://streak-stats.demolab.com?user=HarshalPatel1972&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681"/>
 
 </div>
 
@@ -189,344 +100,20 @@ impl Developer for Harshal {
 
 ---
 
-<!-- ████████████████████  TECH ARSENAL  ████████████████████ -->
+### outside the terminal
 
-<div align="center">
-<h2>⚔️ TECH ARSENAL ⚔️</h2>
-</div>
-
-<div align="center">
-
-**⚡ Primary Weapons — Languages I think in:**
-
-<img src="https://skillicons.dev/icons?i=rust,go,ts,kotlin,python,cpp&theme=dark&perline=6"/>
-
-<br/><br/>
-
-**🖥️ Desktop & Systems:**
-
-<img src="https://skillicons.dev/icons?i=tauri,windows,linux&theme=dark&perline=6"/>
-
-<br/><br/>
-
-**🌐 Web & Frontend:**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=6"/>
-
-<br/><br/>
-
-**🛠️ Dev Infrastructure:**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,cloudflare&theme=dark&perline=6"/>
-
-<br/><br/>
-
-**🗄️ Data & Backend:**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgres,redis&theme=dark&perline=6"/>
-
-</div>
+When I'm not building, I'm watching JJK or spacing out to Ed Sheeran at 2am. I also run **[Reverie](https://www.youtube.com/@ReverieInfinity)** — a YouTube channel of AI-generated music made with Google Lyria. Equal parts side project and creative exhale.
 
 <br/>
 
 ---
 
-<!-- ████████████████████  PROJECT SHOWCASE  ████████████████████ -->
-
-<div align="center">
-<h2>
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"/>
-  &nbsp; PROJECTS THAT SHOULDN'T EXIST (BUT DO) &nbsp;
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"/>
-</h2>
-</div>
-
 <div align="center">
 
-|                                   🚀 Project                                   | 🧠 What It Does                                                                                                      |           🔧 Stack            |                                  🏷️ Status                                   |
-| :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------- | :---------------------------: | :--------------------------------------------------------------------------: |
-|              [**🗓️ Lucid**](https://github.com/HarshalPatel1972/lucid)         | Professional AI meeting assistant with non-intrusive overlay and real-time transcription.                            |   `Rust` `Tauri v2` `React`   |  ![WIP](https://img.shields.io/badge/🔥-Building-FF3C3C?style=flat-square)   |
-|            [**💓 KeyPulse**](https://github.com/HarshalPatel1972/keypulse)     | Privacy-first API key validator — instant provider detection & zero-logging live status checks.                      |     `Next.js` `React` `TS`    | ![Shipped](https://img.shields.io/badge/✅-Shipped-00FF88?style=flat-square) |
-|        [**⚡ Velocity**](https://github.com/HarshalPatel1972/velocity)         | Windows utility fixing WhatsApp Desktop: memory bloat, focus stealing, CPU/battery drain via Win32 syscalls + EcoQoS |    `Go` `Win32` `systray`     |    ![Live](https://img.shields.io/badge/✅-Live-00FF88?style=flat-square)    |
-|      [**📡 Entangle**](https://github.com/HarshalPatel1972/Entangle)           | Instant cross-device file sharing via mDNS/Zeroconf + WebSocket. No cloud. No friction.                              |     `Go` `Kotlin` `Fyne`      |  ![Active](https://img.shields.io/badge/⚡-Active-00D9FF?style=flat-square)  |
-| [**📬 Shortlist**](https://github.com/HarshalPatel1972?tab=repositories&q=shortlist&type=&language=&sort=) | AI-powered email monitor that alerts on internship/placement emails via Telegram + Web Push                          |  `Node.js` `SQLite` `Gemini`  | ![Shipped](https://img.shields.io/badge/✅-Shipped-00FF88?style=flat-square) |
-|        [**🎬 GitReplay**](https://github.com/HarshalPatel1972/GitReplay)       | GitHub commit history visual browser with AI commit summaries via Groq llama3                                        | `Next.js` `Cloudflare` `Groq` |  ![Active](https://img.shields.io/badge/⚡-Active-00D9FF?style=flat-square)  |
-|            [**🔭 Glance**](https://github.com/HarshalPatel1972/Glance)         | Floating reference snip Chrome extension — screenshot anything, pin it anywhere                                      |    `Chrome Extension` `JS`    | ![Shipped](https://img.shields.io/badge/✅-Shipped-00FF88?style=flat-square) |
-| [**🧪 VibeCheck**](https://www.npmjs.com/package/@harshalpatel2868/vibe-check) | AI agent checkpoint CLI tool — validates agent state at key decision points                                          |        `Node.js` `npm`        |  ![Published](https://img.shields.io/badge/📦-npm-FF6B35?style=flat-square)  |
-| [**🪄 AnCheck**](https://github.com/HarshalPatel1972?tab=repositories&q=ancheck&type=&language=&sort=) | Tauri v2 Spotlight-style launcher for Windows — instant app access                                                   |    `Tauri v2` `React` `TS`    | ![Shipped](https://img.shields.io/badge/✅-Shipped-00FF88?style=flat-square) |
-
-</div>
+[github](https://github.com/HarshalPatel1972) &nbsp;·&nbsp; [portfolio](https://harshal-patel-chi.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/harshal-patel-59b9a5278/) &nbsp;·&nbsp; [youtube](https://www.youtube.com/@ReverieInfinity)
 
 <br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer"/>
 
-<!-- ████████████████████  OPEN SOURCE CONTRIBUTIONS  ████████████████████ -->
-
-<div align="center">
-<h2>🌍 I LEAVE CODEBASES BETTER THAN I FOUND THEM</h2>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**`gopsutil`**
-<br/>
-O(N²) → O(N) fix for Windows process listing
-<br/>
-<img src="https://img.shields.io/badge/Go-O(N²)→O(N)-00D9FF?style=flat-square"/>
-
-</td>
-<td align="center" width="33%">
-
-**`getlantern/systray`**
-<br/>
-Alpha pre-multiplication fix for menu icons
-<br/>
-<img src="https://img.shields.io/badge/Go-Icon+Rendering-FF3C3C?style=flat-square"/>
-
-</td>
-<td align="center" width="33%">
-
-**`fyne-io/systray`**
-<br/>
-Menu width recalculation fix on item changes
-<br/>
-<img src="https://img.shields.io/badge/Go-UI+Layout-00FF88?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  GITHUB STATS  ████████████████████ -->
-
-<div align="center">
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/>
-  &nbsp; BY THE NUMBERS &nbsp;
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/>
-</h2>
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF3C3C"/>
-
-<br/><br/>
-
-
-<img width="70%" src="https://streak-stats.demolab.com?user=HarshalPatel1972&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF3C3C&fire=FF3C3C&currStreakNum=ffffff&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=aaaaaa&v=1"/>
-
-<br/><br/>
-
-
-<!-- GITHUB STATS DETAIL -->
-<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=00D9FF&title_color=00D9FF&icon_color=FF3C3C&show_icons=true&hide_rank=false&layout=regular"/> -->
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  ACTIVITY GRAPH  ████████████████████ -->
-
-<div align="center">
-<h2>📈 CONTRIBUTION PULSE</h2>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshalPatel1972&bg_color=0d1117&color=00D9FF&line=FF3C3C&point=ffffff&area=true&area_color=00D9FF&hide_border=true&custom_title=Harshal's%20Contribution%20Graph&v=1"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  REAL CODING TIME (WAKATIME)  ████████████████████ -->
-
-<div align="center">
-  <h2>⏱️ REAL CODING TIME</h2>
-  <i>"Measured in hours. Refined in silence."</i>
-  <br/><br/>
-
-  <!--START_SECTION:waka-->
-
-```txt
-TypeScript    17 hrs 53 mins        ████████▒░░░░░░░░░░░░░░░░   33.72 %
-Markdown      9 hrs 41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-Go            5 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-JavaScript    5 hrs 1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-CSS           2 hrs 29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Text          2 hrs 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Other         2 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-JSON          1 hr 55 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Python        1 hr 19 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Rust          1 hr 7 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-```
-
-<!--END_SECTION:waka-->
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  CONTRIBUTION SNAKE  ████████████████████ -->
-
-<div align="center">
-<h2>🐍 THE COMMIT SNAKE EATS WELL</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshalPatel1972/HarshalPatel1972/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshalPatel1972/HarshalPatel1972/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshalPatel1972/HarshalPatel1972/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  PERSONALITY CORNER  ████████████████████ -->
-
-<div align="center">
-<h2>🎌 BEYOND THE KEYBOARD</h2>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🎌 Currently Watching**
-<br/><br/>
-<img src="https://img.shields.io/badge/Jujutsu_Kaisen-Season_3-FF3C3C?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Death_Note-✅_Seen-555?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/Breaking_Bad-✅_Seen-555?style=flat-square"/>
-
-</td>
-<td align="center" width="25%">
-
-**🎵 Currently Listening**
-<br/><br/>
-<img src="https://img.shields.io/badge/Ed_Sheeran-Shape_of_You-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-<br/><br/>
-_vibing at 2am while shipping_
-
-</td>
-<td align="center" width="25%">
-
-**🎙️ YouTube Channel**
-<br/><br/>
-<img src="https://img.shields.io/badge/Reverie-AI_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-<br/><br/>
-_Google Lyria generated tracks_
-<br/>
-_`re:verie`_
-
-</td>
-<td align="center" width="25%">
-
-**💭 Builder's Creed**
-<br/><br/>
-
-```
-Ship.
-Break.
-Understand.
-Fix.
-Repeat.
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  EXPERIENCE  ████████████████████ -->
-
-<div align="center">
-<h2>💼 WHERE I'VE BEEN</h2>
-
-<table>
-<tr>
-<td align="center">
-
-🏢 **Celebal Technologies**
-<br/>
-Front-End Engineering Intern
-<br/>
-<img src="https://img.shields.io/badge/React-Internship-61DAFB?style=flat-square"/>
-
-</td>
-<td width="10%"></td>
-<td align="center">
-
-🏢 **Internshala**
-<br/>
-Data Science Intern
-<br/>
-<img src="https://img.shields.io/badge/Python-Internship-3776AB?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  CONNECT  ████████████████████ -->
-
-<div align="center">
-<h2>📡 FIND ME IN THE VOID</h2>
-
-<a href="https://github.com/HarshalPatel1972">
-  <img src="https://img.shields.io/badge/GitHub-HarshalPatel1972-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://harshal-patel-chi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-harshal--patel.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/harshal-patel-59b9a5278/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@ReverieInfinity">
-  <img src="https://img.shields.io/badge/YouTube-Reverie-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=555555&center=true&vCenter=true&width=700&lines=Available+for+SDE+roles%2C+open+source+collab%2C+and+building+things+that+shouldn't+exist." alt="Available"/>
-
-</div>
-
-<br/>
-
-<!-- ████████████████████  FOOTER  ████████████████████ -->
-
-<div align="center">
-<sub>
-  Built with obsession. Shipped with precision. &nbsp;·&nbsp;
-  <code>Harshal Patel © 2026</code>
-</sub>
 </div>
