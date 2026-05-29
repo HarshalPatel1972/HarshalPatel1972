@@ -6,7 +6,6 @@
 
 > WhatsApp Desktop was eating 900MB of my RAM. So I found the Win32 APIs that fix it and shipped a tray app. **That is my whole design philosophy.**
 
-I build because something is broken and nobody has fixed it yet. Usually somewhere close to the OS or the browser's guts.
 
 ### 🚀 Shipped
 
