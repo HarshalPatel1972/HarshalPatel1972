@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=BUILDING+ON+THE+METAL&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=50"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=BUILDING+ON+THE+METAL&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=50](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20build%20what's%20missing)"/>
 </div>
 
 <br/>
