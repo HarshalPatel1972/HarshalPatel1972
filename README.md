@@ -11,9 +11,7 @@ I build because something is broken and nobody has fixed it yet. Usually somewhe
 ### 🚀 Shipped
 
 *   [**Velocity**](https://github.com/HarshalPatel1972/velocity) — The WhatsApp memory bloat, focus stealing, and battery drain fix. `Go · Win32`
-*   [**Entangle**](https://github.com/HarshalPatel1972/Entangle) — Zero-cloud, zero-account P2P file dropping over local networks. `Go · Kotlin`
 *   [**KeyPulse**](https://github.com/HarshalPatel1972/keypulse) — Instant API key validity checker with zero logging. `Next.js · Cloudflare Workers`
-*   [**GitReplay**](https://github.com/HarshalPatel1972/GitReplay) — Interactive repository history timeline with AI commit summaries. `Next.js · Groq`
 *   [**VibeCheck**](https://www.npmjs.com/package/@harshalpatel2868/vibe-check) — Deterministic checkpointing for AI agents to prevent drift. `Node.js`
 
 ### 🛠️ Left codebases better than I found them
