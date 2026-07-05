@@ -40,10 +40,4 @@
 
 <br/>
 
-<div align="center">
 
-[portfolio](https://harshal-patel-chi.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/harshal-patel-59b9a5278/) &nbsp;·&nbsp; [youtube](https://www.youtube.com/@ReverieInfinity)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=60&section=footer"/>
-
-</div>
