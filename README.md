@@ -4,7 +4,7 @@
 
 ### ⚡ Tech Stack
 
-`Rust` · `Go` · `TypeScript` · `Win32` · `Next.js` · `Wasm`
+`Rust` · `Go` · `TypeScript` · `Win32` · `Next.js` · `Wasm` · `Python`
 
 
 
