@@ -37,8 +37,6 @@
 
 ---
 
-`🎯 Currently` Writing performance utilities & tuning systems.  
-`🎧 Off-duty` Jujutsu Kaisen, late-night lo-fi, and generative AI music at [Reverie](https://www.youtube.com/@ReverieInfinity).
 
 <br/>
 
