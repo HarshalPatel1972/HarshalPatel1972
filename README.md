@@ -25,15 +25,7 @@
 
 `Rust` · `Go` · `TypeScript` · `Win32` · `Next.js` · `Wasm`
 
----
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarshalPatel1972&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="150" src="https://streak-stats.demolab.com?user=HarshalPatel1972&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-<img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshalPatel1972&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
 
 ---
 
