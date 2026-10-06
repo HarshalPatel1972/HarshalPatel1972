@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Harshal Patel. Software that stays on your side. Phone and PC talking directly, no cloud in between.">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="998" height="338" rx="16" fill="#0b0f14" stroke="#1f2630"/>
+
+  <text x="48" y="64" class="mono" font-size="13" letter-spacing="3" fill="#6b7785">HARSHAL PATEL</text>
+  <text x="48" y="110" class="sans" font-size="36" font-weight="600" fill="#e6edf3">Software that stays on your side.</text>
+
+  <!-- cloud, skipped -->
+  <g transform="translate(480 150)" opacity="0.55">
+    <path d="M-38 18 h76 a16 16 0 0 0 0 -32 a24 24 0 0 0 -44 -10 a18 18 0 0 0 -32 14 a14 14 0 0 0 0 28 z" fill="none" stroke="#3a4450" stroke-width="2" stroke-dasharray="4 4"/>
+    <line x1="-50" y1="26" x2="54" y2="-30" stroke="#f85149" stroke-width="2"/>
+  </g>
+
+  <!-- phone -->
+  <rect x="120" y="170" width="70" height="124" rx="12" fill="none" stroke="#e6edf3" stroke-width="2"/>
+  <line x1="145" y1="180" x2="165" y2="180" stroke="#6b7785" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- pc -->
+  <rect x="790" y="178" width="140" height="92" rx="6" fill="none" stroke="#e6edf3" stroke-width="2"/>
+  <line x1="860" y1="270" x2="860" y2="290" stroke="#e6edf3" stroke-width="2"/>
+  <line x1="830" y1="292" x2="890" y2="292" stroke="#e6edf3" stroke-width="2" stroke-linecap="round"/>
+  <rect x="806" y="196" width="8" height="14" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- direct link -->
+  <path id="wire" d="M196 228 H784" stroke="#2b3440" stroke-width="2" stroke-dasharray="2 6"/>
+  <circle r="4" fill="#58a6ff"><animateMotion dur="2.4s" repeatCount="indefinite" path="M196 228 H784"/></circle>
+  <circle r="4" fill="#58a6ff"><animateMotion dur="2.4s" begin="0.8s" repeatCount="indefinite" path="M196 228 H784"/></circle>
+  <circle r="4" fill="#f0b429"><animateMotion dur="2.4s" begin="0.4s" repeatCount="indefinite" path="M784 228 H196"/></circle>
+
+  <!-- what travels -->
+  <g class="mono" font-size="15" text-anchor="middle" fill="#8b949e">
+    <text x="490" y="266" opacity="0">files  ·  aero
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.44;0.5;1" dur="6s" repeatCount="indefinite"/></text>
+    <text x="490" y="266" opacity="0">keyboard, trackpad, screen  ·  rift
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.44;0.5;1" dur="6s" begin="3s" repeatCount="indefinite"/></text>
+  </g>
+  <text x="490" y="304" class="mono" font-size="12" text-anchor="middle" fill="#4a5562">no cloud · no account · no app on the phone</text>
+</svg>
